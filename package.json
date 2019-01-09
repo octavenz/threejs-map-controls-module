@@ -1,0 +1,19 @@
+{
+  "name": "threejs-map-controls-module",
+  "version": "1.0.0",
+  "description": "An implementation of Three JS map controls exported asd a module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/octavenz/threejs-map-controls-module.git"
+  },
+  "author": "octavenz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/octavenz/threejs-map-controls-module/issues"
+  },
+  "homepage": "https://github.com/octavenz/threejs-map-controls-module#readme"
+}
